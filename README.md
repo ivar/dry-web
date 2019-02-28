@@ -1,3 +1,5 @@
+## Note: This gem is deprecated. Please see [Hanami](https://github.com/hanami/hanami) for replacement.
+
 [gem]: https://rubygems.org/gems/dry-web
 [travis]: https://travis-ci.org/dry-rb/dry-web
 [codeclimate]: https://codeclimate.com/github/dry-rb/dry-web
